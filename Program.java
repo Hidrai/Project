@@ -15,7 +15,7 @@ public class Program
 	{
 		int a = input ("First number: ");
 		int b = input ("Second number: ");
-		System.out.println("Sum: "+ (a+b));
+		System.out.println("Sum: "+ sum(a,b));
 	}
 	public int input (String text)
 	{
